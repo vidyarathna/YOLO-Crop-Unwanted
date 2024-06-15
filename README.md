@@ -43,7 +43,7 @@ The script will display the cropped images of detected objects from the input im
 ## Example
 
 ```bash
-python crop_unwanted.py --image /path/to/your/image.jpg --yolo /path/to/your/yolo-coco --confidence 0.5 --threshold 0.3
+python crop_unwanted.py --image /path/to/your/image.jpg --yolo /path/to/your/yolo-coco
 ```
 
 ### Notes:
