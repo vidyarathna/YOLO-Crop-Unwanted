@@ -13,7 +13,7 @@ This script uses YOLO (You Only Look Once) for object detection in an input imag
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vidyarathna/your-repository.git
+   git clone https://github.com/vidyarathna/YOLO-Crop-Unwanted.git
    cd your-repository
    ```
 
